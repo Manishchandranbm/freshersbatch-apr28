@@ -3,7 +3,7 @@ first create assignment folder
  copy 2 html files
  copy 2 css files
 <<<<<<< HEAD
- javascript
+ javascript hi
 =======
 copy 2 js files
 >>>>>>> js-assignments
